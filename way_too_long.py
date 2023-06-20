@@ -1,8 +1,10 @@
-n=input()
-if len(n) > 10:
-    print(n[0] + str(len(n) - 2) + n[-1])
-else:
-    print(n)
+n = int(input())
+for i in range(n):
+    s = input()
+    if len(s) > 10:
+        print(s[0] + str(len(s) - 2) + s[-1])
+    else:
+        print(s)
 
 
     

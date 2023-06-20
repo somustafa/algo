@@ -1,6 +1,6 @@
-rad=int(input(Enter your radian: ))
+rad=int(input("Enter your radian: "))
 degree=rad * 57.2957795 
-print(rad)
+print("Your radian is" ,degree, "degree.")
 
 
 

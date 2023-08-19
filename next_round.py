@@ -1,1 +1,2 @@
 nums= int(input)
+ 

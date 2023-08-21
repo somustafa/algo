@@ -1,2 +1,1 @@
-nums=(input("enter: "))
-print(max(nums))
+print(max(input("enter: ")))
